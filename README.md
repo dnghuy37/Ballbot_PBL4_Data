@@ -1,7 +1,7 @@
 # Ball-balancing Robot build using LEGO Mindstorm EV3
 
 Run SYSTEM_BALLBOT to get all parameter for simulation and HIL run
-> Parameter won't be upload until paper published (expect 2/2026)
+> Parameter won't be upload until 2/2026
 
 
 ## Main reference:
